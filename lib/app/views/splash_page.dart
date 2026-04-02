@@ -10,7 +10,7 @@ class SplashPage extends StatefulWidget {
 }
 
 class _SplashPageState extends State<SplashPage> {
-  // Instanciando o ViewModel
+
   final SplashViewModel _viewModel = SplashViewModel();
 
   @override
