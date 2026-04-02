@@ -1,5 +1,10 @@
 # Projeto Avaliativo P1 - App Flutter com Login e Cadastro (MVVM)
 
+## Membros do Grupo
+- Davi Souza Lima
+- Eduardo Ferreira Honório
+- Gabriel Novais Corsini
+
 ## Sobre o Projeto
 Este projeto é um aplicativo mobile em Flutter desenvolvido como requisito para a Atividade Avaliativa P1. O objetivo principal do projeto é demonstrar o domínio de conceitos estruturais, navegação entre telas, uso de formulários com validação e a implementação de uma arquitetura limpa com armazenamento de dados mockados em memória.
 
